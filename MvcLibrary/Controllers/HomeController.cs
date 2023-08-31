@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using MvcLibrary.Models;
 using System.Diagnostics;
 
@@ -15,7 +16,7 @@ namespace MvcLibrary.Controllers
 
         public IActionResult Index()
         {
-            return View();
+            return RedirectToAction("Index", "Libraries");
         }
 
         public IActionResult Privacy()
