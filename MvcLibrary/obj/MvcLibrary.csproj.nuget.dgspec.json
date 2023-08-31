@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\asus\\source\\repos\\MvcLibrary\\MvcLibrary\\MvcLibrary.csproj": {}
+    "C:\\Users\\user\\Documents\\ODP\\2_OJT\\trainingScrum\\MVCLibrary\\MvcLibrary\\MvcLibrary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\asus\\source\\repos\\MvcLibrary\\MvcLibrary\\MvcLibrary.csproj": {
+    "C:\\Users\\user\\Documents\\ODP\\2_OJT\\trainingScrum\\MVCLibrary\\MvcLibrary\\MvcLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\asus\\source\\repos\\MvcLibrary\\MvcLibrary\\MvcLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Documents\\ODP\\2_OJT\\trainingScrum\\MVCLibrary\\MvcLibrary\\MvcLibrary.csproj",
         "projectName": "MvcLibrary",
-        "projectPath": "C:\\Users\\asus\\source\\repos\\MvcLibrary\\MvcLibrary\\MvcLibrary.csproj",
-        "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\asus\\source\\repos\\MvcLibrary\\MvcLibrary\\obj\\",
+        "projectPath": "C:\\Users\\user\\Documents\\ODP\\2_OJT\\trainingScrum\\MVCLibrary\\MvcLibrary\\MvcLibrary.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\Documents\\ODP\\2_OJT\\trainingScrum\\MVCLibrary\\MvcLibrary\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
